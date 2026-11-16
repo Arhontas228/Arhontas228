@@ -1,6 +1,6 @@
 <div align="center">
   
-  <!-- ГИФКА 1: Лайк / Класс (Приветствие) -->
+  <!-- ГИФКА 1: Лайк (Приветствие) -->
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" alt="Thumbs up"/>
   
   <h1>Привет, я Андрей Панин 👋</h1>
@@ -13,7 +13,7 @@
     Активно развиваюсь в веб-разработке и создаю учебные проекты.
   </p>
 
-  <!-- Контакты и ссылки (взято из твоего резюме) -->
+  <!-- Контакты -->
   <a href="https://t.me/+79699498663">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -27,7 +27,7 @@
 
 <br/>
 
-<!-- ГИФКА 2: Программист, пишущий код (Терминал/Матрица) -->
+<!-- ГИФКА 2: Программист, пишущий код (Матрица/Терминал) -->
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Coding GIF"/>
 </div>
@@ -45,12 +45,24 @@
 
 ---
 
+<!-- НОВАЯ ГИФКА 3: Информационные системы / Серверы / Данные -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Information Systems GIF"/>
+</div>
+<br/>
+
 ### 💼 Опыт работы
 
 **Создание сайтов в VSCodium** *(Верстка и программирование веб-страниц)*
 **Создание новеллы в Twine** *(Разработка сюжета и механик интерактивной истории)*
 
 ---
+
+<!-- НОВАЯ ГИФКА 4: Кодинг / Базы данных / Аналитика -->
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Programming GIF"/>
+</div>
+<br/>
 
 ### 💻 Мой стек технологий
 
@@ -78,10 +90,9 @@
 <div align="center">
   <h3>Спасибо, что заглянули в мой профиль! 💻</h3>
   
-  <!-- Место для контактов внизу (если нужно) -->
   <p>
     📍 г. Люберцы, Московская область<br/>
     📞 +7 (969) 349 86 63<br/>
-    📧 моя почта jsjsyshsdhsysh@gmail.com
+    📧 моя_почта jsjsyshsdhsysh@gmail.com
   </p>
 </div>
