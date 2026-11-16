@@ -82,6 +82,6 @@
   <p>
     📍 г. Люберцы, Московская область<br/>
     📞 +7 (969) 349 86 63<br/>
-    📧 твоя_почта@jsjsyshsdhsysh@gmail.com
+    📧 моя почта jsjsyshsdhsysh@gmail.com
   </p>
 </div>
