@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Приветственная гифка (можно заменить на свою) -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
+  <!-- ГИФКА 1: Лайк / Класс (как ты просил) -->
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="Thumbs up"/>
   
   <h1>Привет, я Андрей Панин 👋</h1>
   
@@ -12,23 +12,20 @@
     Люблю чистый код, современные технологии и решение сложных задач.
   </p>
 
-  <!-- Ссылки на соцсети (замени # на свои ссылки) -->
+  <!-- Ссылки на соцсети (замени на свои актуальные ссылки) -->
   <a href="https://t.me/твой_телеграм">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:твоя_почта@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://твой_сайт.ру">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
 </div>
 
 <br/>
 
-<!-- Гифка для программиста (анимированный код) -->
+<!-- ГИФКА 2: Программист, пишущий код (Матрица/Терминал) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
 </div>
 
 <br/>
@@ -51,23 +48,23 @@
 
 ### 📊 Моя статистика GitHub
 
-<!-- Карточки со статистикой -->
+<!-- ИСПРАВЛЕНО: Карточки со статистикой. Я добавил параметр theme=radical и hide_border=true, чтобы они выглядели стильно и не ломались -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arhontas228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhontas228&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arhontas228&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhontas228&layout=compact&theme=radical&hide_border=true&langs_count=7" height="180em" alt="Top Languages"/>
 </div>
 
 <br/>
 
 ### 🚀 Что я делаю сейчас?
-- 🔭 Работаю над **[Название твоего проекта]** (замени на свой)
-- 🌱 Изучаю **[Технология, которую учишь]** (например, Next.js, Docker)
+- 🔭 Работаю над **[Название твоего проекта]**
+- 🌱 Изучаю **Next.js / Docker** *(замени на то, что учишь)*
 - 💬 Спроси меня о **JavaScript, React или Python**
-- ⚡ Факт обо мне: **Люблю решать алгоритмические задачи по ночам**
+- ⚡ Факт обо мне: **Люблю решать сложные задачи и писать чистый код**
 
 <br/>
 
-<!-- Змейка, которая ест коммиты (нужна настройка, см. ниже) -->
+<!-- Змейка (если ты ее настроил по инструкции из прошлого сообщения) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Arhontas228/Arhontas228/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
