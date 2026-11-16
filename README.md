@@ -1,6 +1,6 @@
 <div align="center">
   
-  <!-- ГИФКА 1: Лайк / Класс (как ты просил) -->
+  <!-- ГИФКА 1: Лайк / Класс (вместо сломанной статистики) -->
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="Thumbs up"/>
   
   <h1>Привет, я Андрей Панин 👋</h1>
@@ -46,25 +46,14 @@
 
 <br/>
 
-### 📊 Моя статистика GitHub
-
-<!-- ИСПРАВЛЕНО: Карточки со статистикой. Я добавил параметр theme=radical и hide_border=true, чтобы они выглядели стильно и не ломались -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arhontas228&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhontas228&layout=compact&theme=radical&hide_border=true&langs_count=7" height="180em" alt="Top Languages"/>
-</div>
-
-<br/>
-
 ### 🚀 Что я делаю сейчас?
-- 🔭 Работаю над **[Название твоего проекта]**
-- 🌱 Изучаю **Next.js / Docker** *(замени на то, что учишь)*
+- 🔭 Работаю над **своим портфолио**
+- 🌱 Изучаю **Next.js / Docker**
 - 💬 Спроси меня о **JavaScript, React или Python**
 - ⚡ Факт обо мне: **Люблю решать сложные задачи и писать чистый код**
 
 <br/>
 
-<!-- Змейка (если ты ее настроил по инструкции из прошлого сообщения) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arhontas228/Arhontas228/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <h3>Спасибо, что заглянули в мой профиль! 💻</h3>
 </div>
